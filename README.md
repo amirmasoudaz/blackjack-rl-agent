@@ -199,4 +199,4 @@ This project is released under the **MIT License**. See the [LICENSE](LICENSE) f
 
 If you find this project useful or build something on top of it, feel free to mention or link back to this repo — it'd mean a lot!
 
----]()
+---
