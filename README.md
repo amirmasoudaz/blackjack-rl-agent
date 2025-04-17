@@ -1,4 +1,4 @@
-[# 🂡 Blackjack Reinforcement‑Learning Agent
+# 🂡 Blackjack Reinforcement‑Learning Agent
 
 > **Beat the dealer — or at least try.**  
 > A fully‑custom Blackjack engine wrapped in a Gym‑style environment and trained with
